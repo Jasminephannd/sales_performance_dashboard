@@ -1,3 +1,5 @@
+To view the Dashboard, go to: https://jasminephannd.github.io/sales_performance_dashboard/
+
 # Tableau User Story | Sales Performance
 
 ## Introduction
